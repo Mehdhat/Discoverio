@@ -1,0 +1,156 @@
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: white;
+    }
+
+    header {
+      background: #2c5257;
+      color: rgb(233, 230, 230);
+      font-family: Arial, sans-serif;
+    }
+
+    ul {
+      list-style: none;
+    }
+
+    li {
+      float: left;
+      display: inline;
+    }
+
+    a {
+      color: white;
+      text-decoration: none;
+      padding-left: 10px;
+    }
+
+    .logo {
+      width: 70%;
+      margin: auto;
+    }
+
+    .nav_bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px;
+      margin-left: 10px;
+      position: relative;
+    }
+
+    .nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    div#tagline {
+      float: left;
+    }
+
+    p {
+      font-size: large;
+    }
+
+    img#xyz {
+      height: 39vh;
+      padding-left: 51vw;
+      padding-bottom: 2vh;
+      margin-top: -20vh;
+      display: flexbox;
+      padding-top: 2vh;
+    }
+
+    footer {
+      background-color: #2c5257;
+      color: rgb(233, 230, 230);
+      font-family: Arial, sans-serif;
+      margin-bottom: 0vh;
+      padding-left: 25vw;
+      margin-top: 7vh;
+    }
+    p#col {
+      color: #cfc497;
+      font-size: larger;
+    }
+
+    div#abc {
+      height: 12vh;
+      color: #2c5257;
+    }
+
+    h1#abc1 {
+      text-align: center;
+      padding-top: 15px;
+    }
+
+    div#red {
+      background-color: #e8646f;
+      width: 18vw;
+      height: max-content;
+      margin-left: 5vw;
+      padding-top: 1vh;
+      float: left;
+      padding-bottom: 5vh;
+    }
+
+    div#yellow {
+      background-color: #cfc498;
+      width: 18vw;
+      height: min-content;
+      margin-left: 5vw;
+      padding-top: 1vh;
+      float: left;
+      padding-bottom: 5vh;
+    }
+
+    div#blue {
+      background-color: #77b0cd;
+      width: 18vw;
+      height: max-content;
+      margin-left: 5vw;
+      padding-top: 1vh;
+      float: left;
+      padding-bottom: 5vh;
+    }
+
+    div#peach {
+      background-color: #e6cdb8;
+      width: 18vw;
+      height: max-content;
+      margin-left: 5vw;
+      padding-top: 1vh;
+      float: left;
+      padding-bottom: 5vh;
+    }
+
+    p.line {
+      color: black;
+      text-align: left;
+      font-size: 20px;
+      padding-left: 1vw;
+      padding-right: 1vw;
+    }
+
+    img.pic {
+      width: 10vw;
+      height: 10vh;
+      float: centre;
+      
+    }
+
+    h1.title {
+      color: black;
+      text-align: left;
+      font-size: 30px;
+      padding-left: 1vw;
+      padding-right: 1vw;
+    }
+
+    div.banner {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+    }
